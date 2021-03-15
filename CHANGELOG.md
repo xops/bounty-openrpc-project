@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/xops/openrpc-cli/compare/1.0.0...1.0.1) (2021-03-15)
+
+
+### Bug Fixes
+
+* tsconfig ([d2a5449](https://github.com/xops/openrpc-cli/commit/d2a5449d1604873dc6c89db61257ec3f17f869ef))
+
 # 1.0.0 (2021-03-15)
 
 
