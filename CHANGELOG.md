@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/xops/openrpc-cli/compare/1.0.1...1.0.2) (2021-03-15)
+
+
+### Bug Fixes
+
+* add npm publishConfig ([365f5c1](https://github.com/xops/openrpc-cli/commit/365f5c1c4543d5bf4e618435c92e84a99f4444cc))
+
 ## [1.0.1](https://github.com/xops/openrpc-cli/compare/1.0.0...1.0.1) (2021-03-15)
 
 
