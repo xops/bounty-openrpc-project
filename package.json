@@ -12,6 +12,9 @@
     "test": "jest",
     "posttest": "npm run lint"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
